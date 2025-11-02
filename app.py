@@ -24,7 +24,8 @@ CORS(app, origins=[
     "https://localhost:3001",
     "http://localhost:3001",
     "https://localhost:3000",
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://d18z11exieprhm.cloudfront.net".
 ])
 
 # Shared state for progress updates
